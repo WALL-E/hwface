@@ -1,0 +1,16 @@
+{
+  "name": "HWFace",
+  "description": "HwFace: auto fill",
+  "version": "1.0",
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_title": "HwFace: auto fill"
+  },
+  "manifest_version": 2
+}
