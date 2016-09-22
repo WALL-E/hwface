@@ -12,5 +12,10 @@
   "browser_action": {
     "default_title": "HwFace: auto fill"
   },
+  "icons" : {
+    "19" : "icon-19.png",
+    "48" : "icon-48.png",
+    "128" : "icon-128.png"
+  },
   "manifest_version": 2
 }
