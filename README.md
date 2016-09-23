@@ -5,4 +5,4 @@
 基本功能已经完成。
 
 ## 安装
-[点击下载](/dl/hwface-1.0.crx)，直接拖入chrome浏览器即可完成安装
+[点击下载](https://github.com/WALL-E/hwface/blob/master/dl/hwface-1.0.crx?raw=true)，直接拖入chrome浏览器即可完成安装
