@@ -19,9 +19,9 @@
 * 自动生成考勤异常报告(Todo)
 
 ## 安装
-[点击下载](https://github.com/WALL-E/hwface/blob/master/dl/hwface-1.0.crx?raw=true)，直接拖入chrome浏览器即可完成安装
+[点击下载](https://github.com/WALL-E/hwface/blob/master/dl/hwface-1.0.crx?raw=true)，打开Chrome扩展程序或者直接在地址栏输入*chrome://extensions/*，拖入chrome浏览器即可完成安装
 
-注意: **双击打开是不对的哦** 😯
+ **注意: 双击打开是不对的哦** 😯
 
 
 ## 有图有真相
